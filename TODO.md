@@ -1,0 +1,7 @@
+- [x] Add "hidden-slide" class to all content slides except slide6 (RSVP slide)
+- [x] Add bottom navigation HTML to index.html before </body>
+- [x] Add CSS styles for bottom navigation in style.css
+- [x] Test navigation functionality
+- [x] Optimize website for mobile responsiveness (reduce font sizes, adjust layouts for small screens)
+- [x] Change theme to dark red (merah gelap) and add black color in root variables
+- [x] Tidy up HTML and CSS files for better readability and organization
